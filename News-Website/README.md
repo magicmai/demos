@@ -18,4 +18,4 @@
 
 ![登录页](https://raw.githubusercontent.com/magicmai/demos/master/News-Website/%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/login.jpg)
 
-* Thanks：[表严肃](http://www.bilibili.com/video/av10373326/)
+* Thanks：[表严肃教程](http://www.bilibili.com/video/av10373326/)
