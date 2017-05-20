@@ -13,3 +13,5 @@
 * article.html
 
 ![文章页](https://raw.githubusercontent.com/magicmai/demos/master/a-simple-responsive-blog/%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/article.jpg)
+
+* Thanks：[表严肃教程](http://www.bilibili.com/video/av8533758/)
