@@ -1,21 +1,7 @@
 # News-website
 
-每页截图如下：
+动画演示：
 
-* index.html
-
-![主页](https://raw.githubusercontent.com/magicmai/demos/master/News-Website/%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/index.jpg)
-
-* news.html
-
-![新闻页](https://raw.githubusercontent.com/magicmai/demos/master/News-Website/%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/news.jpg)
-
-* signup.html
-
-![注册页](https://raw.githubusercontent.com/magicmai/demos/master/News-Website/%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/signup.jpg)
-
-* login.html
-
-![登录页](https://raw.githubusercontent.com/magicmai/demos/master/News-Website/%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/login.jpg)
+![](https://github.com/magicmai/demos/blob/master/News-Website/%E6%BC%94%E7%A4%BA%E5%8A%A8%E5%9B%BE/news.gif?raw=true)
 
 * Thanks：[表严肃教程](http://www.bilibili.com/video/av10373326/)
