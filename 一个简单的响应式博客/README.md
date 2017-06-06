@@ -1,4 +1,4 @@
-# a-Simple-Responsive-Blog
+# 一个简单的响应式博客
 
 每页截图如下：
 
